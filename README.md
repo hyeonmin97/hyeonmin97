@@ -5,20 +5,20 @@
 
 ### SNS
 <div>
-  <a href="">
+  <a href="https://www.instagram.com/hyeon.__.nnin">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=flat" />
   </a>
 
-  <a href="">
+  <a href="https://www.facebook.com/profile.php?id=100008868938892">
     <img src= "https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=flat"/>
   </a>
 
   </a>
-  <a href="">
+  <a href="https://velog.io/@hyeonmin97">
     <img src= "https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white&style=flat"/>
   </a>
 
-  <a href="">
+  <a href="mailto:hyeonmin97@naver.com">
     <img src= "https://img.shields.io/badge/hyeonmin97@naver.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=flat-square"/>
   </a>
 </div>
