@@ -1,16 +1,74 @@
-### Hi there 👋
+### 박현민
+안녕하세요. 병아리 개발자 박현민입니다.
 
-<!--
-**hyeonmin97/hyeonmin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### SNS
+<div>
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=flat" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="">
+    <img src= "https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=flat"/>
+  </a>
+
+  </a>
+  <a href="">
+    <img src= "https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white&style=flat"/>
+  </a>
+
+  <a href="">
+    <img src= "https://img.shields.io/badge/hyeonmin97@naver.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=flat-square"/>
+  </a>
+</div>
+<br>
+
+### 보유 스킬
+<span>
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white&style=flat">  
+</span>
+
+<br>
+
+<span>
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?&logo=android&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Spring_boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white&style=flat"/>
+</span>
+
+<br>
+<br>
+
+### Status
+
+![hyeonmin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonmin97&theme=vue&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyeonmin97&theme=vue&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+
+  <br>
+
+### 최종 학력
+- 동양미래대학교 학사(전공심화과정)
+- 4.29 / 4.5
+<br>
+
+### 수상 내용
+- 2021 동양미래 EXPO(졸업작품전시회, 한국전자전(코엑스)) - 우수상(전공 동아리)
+- 한국전문대학교육협의회 - 표창장
+- 동양미래대학교 사회맞춤형 협약반 포트폴리오 경진대회 - 최우수상
+- 동양미래대학교 - 우수상
+<br>
+
+### 자격증
+- 정보처리 기사
+- AWS Cloud Practitioner
+
+
+
+
+
+
+
+
