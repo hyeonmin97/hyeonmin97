@@ -6,6 +6,10 @@
 주인의식을 가지고 더 좋은 프로젝트를 만들기 위해 고민하겠습니다.
 <br>
 
+### 이력서
+
+[이력서](https://talented-sea-009.notion.site/8e4e2309d7484496a333a4a26accf061)
+
 ### SNS
 <div>
   <a href="https://www.instagram.com/hyeon.__.nnin">
